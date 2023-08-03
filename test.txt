@@ -6,3 +6,5 @@ folder
 edit 
 modify 
 pull
+push 
+antoher way
